@@ -1,0 +1,34 @@
+Here are problems that solved by Python files :
+Problem 1 : Type “One” if the number is 1 and type “Not One” if the number is not 1
+(condition_if_1.py)
+
+Problem 2 : Type “Positive” if the number is more than 0, type “Negative” 
+            if the number is less than 0 and type “Zero” if the number is Zero
+(condition_if_2.py)
+			
+Problem 3 : Fill in “Group A” if the number more than or equal with 0 and 
+            the number less than 10. Type “Group B” if the number more than 
+			or equal with 10 and the number less than 20. 
+			Type “Group C” if the number more than or equal with 20 and less than 30, 
+			otherwise “Group D”			
+(condition_if_3.py)			
+
+problem 4 : Sum if the number is 5			
+(condition_if_4.py)
+
+Problem 5 : Sum the number if the number more than or equal with 0 and 
+            the number less than or equal with 10
+(condition_if_5.py)			
+
+Problem 6 : Sum Number 3 if Number 1 more than 5 and number 2 more than 5
+(condition_if_6.py)
+
+Problem 7 : Count if the number is 5
+(condition_if_7.py)
+
+Problem 8 : Count the number if the number more than or equal with 0 and 
+            the number less than or equal with 10
+(condition_if_8.py)			
+
+Problem 9 : Count the number if number 1 is more than 5 and number 2 is more than 5.
+(condition_if_9.py)
